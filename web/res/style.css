@@ -31,10 +31,10 @@ body {
 	position: relative;
 	padding: 1em 1.9em;
 	background: #FFFFFF;
+	display: flex;
 }
 
 .maintenance-body-logo {
-	float: left;
 	padding: 1em;
 }
 
